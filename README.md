@@ -20,19 +20,19 @@ Engineering intelligent systems — transforming data into decisions, code into 
 
 ## Expertise
 - **AI/ML**  
-  Building predictive models, neural networks, and data-driven solutions  
+  Building predictive models, neural networks, and data-driven solutions.
 - **DevOps**  
-  Architecting cloud-native systems, CI/CD pipelines, and infrastructure automation  
+  Architecting cloud-native systems, CI/CD pipelines, and infrastructure automation.
 - **Full-Stack Development**  
-  Developing scalable applications with MERN, Django, and Flutter  
+  Developing scalable applications with MERN, Django, and Flutter.
 
 ## Focus Areas
 - **Machine Learning Engineering**  
-  End-to-end implementation from research to production  
+  End-to-end implementation from research to production.
 - **Cloud & Automation**  
-  Designing resilient and efficient cloud architectures  
+  Designing resilient and efficient cloud architectures.
 - **Emerging Technologies**  
-  Practical implementation of AI and blockchain solutions  
+  Practical implementation of AI and blockchain solutions.
 
 ## Professional Philosophy
 Continuous learning and systematic optimization — building robust systems for the future.
