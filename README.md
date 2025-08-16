@@ -14,11 +14,17 @@
 I am an energetic and enthusiastic individual with a strong foundation in software engineering and DevOps. Driven by a passion for problem-solving and innovation, I have developed practical skills through academic projects and self-driven learning. I am excited to bring my knowledge and commitment to delivering reliable, efficient solutions to contribute meaningfully to your organization.
 </p>
 
+##  Education
+### University of Kelaniya
+- **I recently completed my Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My academic journey has equipped me with strong analytical, programming, and problem-solving skills, laying a solid foundation for a career in technology.**  
 
-## Mission
+### Sri Lanka Institute of Information Technology
+- **I am currently a 4th-year undergraduate student at SLIIT, pursuing a degree in Information Technology with a broad focus across all areas of IT. My studies encompass software development, networking, databases, and emerging technologies, preparing me for diverse roles in the tech industry.**  
+  
+##  Mission
 Engineering intelligent systems — transforming data into decisions, code into scalability.
 
-## Expertise
+##  Expertise
 - **AI/ML**  
   Building predictive models, neural networks, and data-driven solutions.
 - **DevOps**  
@@ -26,7 +32,7 @@ Engineering intelligent systems — transforming data into decisions, code into 
 - **Full-Stack Development**  
   Developing scalable applications with MERN, Django, and Flutter.
 
-## Focus Areas
+##  Focus Areas
 - **Machine Learning Engineering**  
   End-to-end implementation from research to production.
 - **Cloud & Automation**  
@@ -34,7 +40,7 @@ Engineering intelligent systems — transforming data into decisions, code into 
 - **Emerging Technologies**  
   Practical implementation of AI and blockchain solutions.
 
-## Professional Philosophy
+##  Professional Philosophy
 Continuous learning and systematic optimization — building robust systems for the future.
 
 
