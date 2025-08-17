@@ -1,9 +1,10 @@
 <h1 align="center">Hi I'm Shavindu Rajapaksha | Welcome to My GitHub Profile</h1>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&width=800&lines=Full+Stack+Development+%7C+DevOps+Engineering">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3B82F6&width=800&lines=Full+Stack+Development+%7C+DevOps+Engineering" />
+</div>
+
 
 
 
