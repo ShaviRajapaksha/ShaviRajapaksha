@@ -21,7 +21,7 @@ I am an energetic and enthusiastic individual with a strong foundation in softwa
 ### University of Kelaniya
 - **I recently completed my Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My academic journey has equipped me with strong analytical, programming, and problem-solving skills, laying a solid foundation for a career in technology.**  
 
-### Sri Lanka Institute of Information Technology
+### Sri Lanka Institute of Information Technology(SLIIT)
 - **I am currently a 4th-year undergraduate student at SLIIT, pursuing a degree in Information Technology with a broad focus across all areas of IT. My studies encompass software development, networking, databases, and emerging technologies, preparing me for diverse roles in the tech industry.**  
   
 ##  Mission
