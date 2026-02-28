@@ -14,7 +14,7 @@
 ##  About Me  
 
 <p align="justify">
-I am an energetic and enthusiastic individual with a strong foundation in software engineering and DevOps. Driven by a passion for problem-solving and innovation, I have developed practical skills through academic projects and self-driven learning. I am excited to bring my knowledge and commitment to delivering reliable, efficient solutions to contribute meaningfully to your organization.
+Graduated Software Engineer with a strong foundation in software engineering and DevOps, experienced in designing, developing, deploying, and maintaining scalable web and mobile applications. Hands-on experience in full-stack development, RESTful API design, cloud infrastructure, CI/CD automation, containerization, and testing. Skilled in React, Next.js, NestJS, ASP.NET Core, Docker, AWS EC2, PostgreSQL, MS SQL and GitHub Actions, with experience working in Agile environments and production systems.
 </p>
 
 ##  Education
