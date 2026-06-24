@@ -22,7 +22,7 @@ Graduated Software Engineer with a strong foundation in software engineering and
 - **I have completed my Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My academic journey has equipped me with strong analytical, programming, and problem-solving skills, laying a solid foundation for a career in technology.**  
 
 ### Sri Lanka Institute of Information Technology(SLIIT)
-- **I am currently an undergraduate student at SLIIT, pursuing a degree in Information Technology with a broad focus across all areas of IT. My studies encompass software development, networking, databases, and emerging technologies, preparing me for diverse roles in the tech industry.**  
+- **I completed a Bachelor of Science Honours (BSc Hons) in Information Technology at Sri Lanka Institute of Information Technology (SLIIT). The program provided comprehensive knowledge across software development, networking, databases, software engineering, and emerging technologies, equipping me with strong technical, analytical, and problem-solving skills for diverse roles in the technology industry.**  
   
 ##  Mission
 Engineering intelligent systems — transforming data into decisions, code into scalability.
