@@ -1,9 +1,16 @@
-<h1 align="left">Hi I'm Shavindu Rajapaksha, Welcome to My GitHub Profile.</h1>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/117a6775-dd29-4b30-b004-d318e57589b4" alt="Shavindu Rajapaksha Banner" width="100%" />
+</p>
+
+
+
+
+<!-- <h1 align="left">Hi I'm Shavindu Rajapaksha, Welcome to My GitHub Profile.</h1>
 
 
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=3B82F6&width=800&lines=Software+Engineering;Full+Stack+Development;DevOps+Engineering;AI/ML+Engineering&loop=true" />
-</div>
+</div> -->
 
 
 
@@ -24,9 +31,6 @@ Graduated Software Engineer with a strong foundation in software engineering and
 ### Sri Lanka Institute of Information Technology(SLIIT)
 - **I completed a Bachelor of Science Honours (BSc Hons) in Information Technology at Sri Lanka Institute of Information Technology (SLIIT). The program provided comprehensive knowledge across software development, networking, databases, software engineering, and emerging technologies, equipping me with strong technical, analytical, and problem-solving skills for diverse roles in the technology industry.**  
   
-##  Mission
-Engineering intelligent systems — transforming data into decisions, code into scalability.
-
 ##  Expertise
 - **AI/ML**  
   Building predictive models, neural networks, and data-driven solutions.
@@ -42,12 +46,7 @@ Engineering intelligent systems — transforming data into decisions, code into 
   Designing resilient and efficient cloud architectures.
 - **Emerging Technologies**  
   Practical implementation of AI and blockchain solutions.
-
-##  Professional Philosophy
-Continuous learning and systematic optimization — building robust systems for the future.
-
-
-
+  
 ##  **Tech Stack**  
 
 <p align="center">
