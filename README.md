@@ -46,7 +46,7 @@ Graduated Software Engineer with a strong foundation in software engineering and
   Designing resilient and efficient cloud architectures.
 - **Emerging Technologies**  
   Practical implementation of AI and blockchain solutions.
-  
+<!--   
 ##  **Tech Stack**  
 
 <p align="center">
@@ -86,7 +86,7 @@ Graduated Software Engineer with a strong foundation in software engineering and
 
 
 </p>
-
+-->
 <!-- 
 ##  **Contribution Activity** 
 <p align="center">
