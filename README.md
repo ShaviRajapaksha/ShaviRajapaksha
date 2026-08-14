@@ -99,7 +99,7 @@ Graduated Software Engineer with a strong foundation in software engineering and
 
  
 ##  **Contribution Graph**
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaviRajapaksha&theme=react-dark&color=58a6ff&line=58a6ff&point=ffffff&area=true"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaviRajapaksha&theme=react-dark&color=4593f8&line=4593f8&point=ffffff&area=true"/>
 <!--
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaviRajapaksha&theme=react-dark"/> 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaviRajapaksha&theme=react-dark&color=58a6ff&line=58a6ff&point=58a6ff&area=true"/>
