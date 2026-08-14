@@ -97,11 +97,10 @@ Graduated Software Engineer with a strong foundation in software engineering and
 </p>
 -->
 
-<!-- 
+ 
 ##  **Contribution Graph**
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShaviRajapaksha&theme=react-dark"/>
--->
 
 
 
