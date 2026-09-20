@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/117a6775-dd29-4b30-b004-d318e57589b4" alt="Shavindu Rajapaksha Banner" width="100%" />
+  <img width="1584" height="396" alt="WhatsApp Image 2026-09-21 at 00 40 11" src="https://github.com/user-attachments/assets/955cf65c-5080-4948-a98d-705a0f850070" />
 </p>
 
 
