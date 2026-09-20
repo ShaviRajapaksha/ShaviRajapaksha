@@ -27,15 +27,14 @@ Graduated Software Engineer with a strong foundation in software engineering and
 </p>
 
 ##  Education
+| <img width="1200" height="1600" alt="WhatsApp Image 2026-07-13 at 00 48 14" src="https://github.com/user-attachments/assets/00462841-35fe-4cb0-9c05-f4bc4eb36345" /> | <img width="1200" height="1600" alt="IMAGE 2026-09-21 00:02:35" src="https://github.com/user-attachments/assets/b285da84-ecf5-4624-9c9b-df728af244fc" /> | 
+| :--- | :--- |
+
 ### University of Kelaniya
 - **I have completed my Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My academic journey has equipped me with strong analytical, programming, and problem-solving skills, laying a solid foundation for a career in technology.**
   
-  <img width="1200" height="1600" alt="WhatsApp Image 2026-07-13 at 00 48 14" src="https://github.com/user-attachments/assets/00462841-35fe-4cb0-9c05-f4bc4eb36345" />
-
 ### Sri Lanka Institute of Information Technology(SLIIT)
 - **I completed a Bachelor of Science Honours (BSc Hons) in Information Technology at Sri Lanka Institute of Information Technology (SLIIT). The program provided comprehensive knowledge across software development, networking, databases, software engineering, and emerging technologies, equipping me with strong technical, analytical, and problem-solving skills for diverse roles in the technology industry.**
-
-  <img width="1200" height="1600" alt="IMAGE 2026-09-21 00:02:35" src="https://github.com/user-attachments/assets/b285da84-ecf5-4624-9c9b-df728af244fc" />
 
 ##  Expertise
 - **AI/ML**  
