@@ -27,7 +27,7 @@ Graduated Software Engineer with a strong foundation in software engineering and
 </p>
 
 ##  Education
-| <img width="1200" height="1600" alt="WhatsApp Image 2026-07-13 at 00 48 14" src="https://github.com/user-attachments/assets/00462841-35fe-4cb0-9c05-f4bc4eb36345" /> | <img width="1200" height="1600" alt="IMAGE 2026-09-21 00:02:35" src="https://github.com/user-attachments/assets/b285da84-ecf5-4624-9c9b-df728af244fc" /> | 
+| <img width="1200" height="1600" alt="WhatsApp Image 2026-07-13 at 00 48 14" src="https://github.com/user-attachments/assets/00462841-35fe-4cb0-9c05-f4bc4eb36345" /> | <img width="1200" height="1600" alt="IMAGE 2026-09-21 00:02:41 copy 2" src="https://github.com/user-attachments/assets/a053ceb8-c582-4ea4-a3e5-eeb866a96a13" /> | 
 | :--- | :--- |
 
 ### University of Kelaniya
