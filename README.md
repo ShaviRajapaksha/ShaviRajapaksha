@@ -23,7 +23,7 @@
 ##  About Me  
 
 <p align="justify">
-Graduated Software Engineer with a strong foundation in software engineering and DevOps, experienced in designing, developing, deploying, and maintaining scalable web and mobile applications. Hands-on experience in full-stack development, RESTful API design, cloud infrastructure, CI/CD automation, containerization, and testing. Skilled in React, Next.js, NestJS, ASP.NET Core, Docker, AWS EC2, PostgreSQL, MS SQL and GitHub Actions, with experience working in Agile environments and production systems.
+Graduated Software Engineer with a strong foundation in software engineering, DevOps, and Artificial Intelligence/Machine Learning. Experienced in designing, developing, deploying, and maintaining scalable web, mobile, and data-driven applications. Hands-on experience in full-stack development, RESTful API design, cloud infrastructure, CI/CD automation, containerization, software testing, and implementing predictive AI/ML models. Skilled in React, Next.js, NestJS, ASP.NET Core, Python (PyTorch/TensorFlow, Scikit-learn), Docker, AWS EC2, PostgreSQL, MS SQL, and GitHub Actions, with proven experience working in Agile environments and production systems.
 </p>
 
 ##  Education
@@ -31,26 +31,67 @@ Graduated Software Engineer with a strong foundation in software engineering and
 | :--- | :--- |
 
 ### University of Kelaniya
-- **I have completed my Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My academic journey has equipped me with strong analytical, programming, and problem-solving skills, laying a solid foundation for a career in technology.**
+
+* **I have completed a Bachelor of Science in Physical Science from the University of Kelaniya, with a major in Computer Science and Statistics. My studies developed strong foundations in programming, computer science, statistics, analytical thinking, and problem-solving.**
+
+### Sri Lanka Institute of Information Technology (SLIIT)
+
+* **I have completed a Bachelor of Science Honours (BSc Hons) in Information Technology at the Sri Lanka Institute of Information Technology (SLIIT). The program provided comprehensive knowledge in software development, databases, networking, software engineering, and emerging technologies.**
+
+## Expertise
+
+* **Full-Stack Development**
+  Building scalable web applications using React.js, Next.js, Node.js, NestJS, ASP.NET Core, and Python.
+
+* **Backend Development**
+  Developing RESTful APIs and database-driven applications using Node.js, NestJS, Express.js, ASP.NET Core, Flask, and FastAPI.
+
+* **AI & Machine Learning**
+  Building and integrating data-driven models, predictive analytics, and ML solutions using Python, PyTorch, TensorFlow, Scikit-learn, Pandas, and NumPy.
   
-### Sri Lanka Institute of Information Technology(SLIIT)
-- **I have completed a Bachelor of Science Honours (BSc Hons) in Information Technology at Sri Lanka Institute of Information Technology (SLIIT). The program provided comprehensive knowledge across software development, networking, databases, software engineering, and emerging technologies, equipping me with strong technical, analytical, and problem-solving skills for diverse roles in the technology industry.**
+* **DevOps & Cloud**
+  Building CI/CD pipelines, containerized applications, and production deployments using Docker, AWS, GitHub Actions, Jenkins, and Caddy.
 
-##  Expertise
-- **AI/ML**  
-  Building predictive models, neural networks, and data-driven solutions.
-- **DevOps**  
-  Architecting cloud-native systems, CI/CD pipelines, and infrastructure automation.
-- **Full-Stack Development**  
-  Developing scalable applications with MERN, Django, and Flutter.
+## Technical Stack
 
-##  Focus Areas
-- **Machine Learning Engineering**  
-  End-to-end implementation from research to production.
-- **Cloud & Automation**  
-  Designing resilient and efficient cloud architectures.
-- **Emerging Technologies**  
-  Practical implementation of AI and blockchain solutions.
+| Category | Technologies | 
+| ----- | ----- | 
+| **Languages** | `JavaScript` `TypeScript` `Python` `C#` `Dart` `SQL` | 
+| **Frontend** | `React.js` `Next.js` `HTML5` `CSS3` `Flutter` | 
+| **Backend** | `Node.js` `Express.js` `NestJS` `ASP.NET Core` `Flask` `FastAPI` | 
+| **AI / ML & Data Science** | `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Jupyter Notebook` `Google Colab` |
+| **Databases & ORMs** | `PostgreSQL` `MS SQL` `MongoDB` `Prisma ORM` `SQLAlchemy` `Entity Framework Core` | 
+| **DevOps & Cloud** | `Docker` `Docker Hub` `AWS EC2` `AWS S3` `GitHub Actions` `Jenkins` `Caddy` `CI/CD` | 
+| **Tools & Analytics** | `Git` `GitHub` `Postman` `Swagger` `Jira` `Cypress` | 
+
+## Focus Areas
+
+* **AI & Machine Learning**
+  Applying statistical modeling, predictive analytics, and deep learning architectures to build intelligent data-driven applications.
+
+* **Software Engineering**
+  Building maintainable, scalable, and reliable software solutions.
+
+* **Cloud & Automation**
+  Developing automated CI/CD workflows and production-ready deployment environments.
+
+* **Enterprise Applications**
+  Developing business-focused systems including ERP and access-control solutions.
+
+* **Software Quality**
+  Improving application reliability through automated, manual, load, and stress testing.
+
+## Professional Experience
+
+* **Enterprise Software Development**
+  Experience developing and maintaining enterprise applications, backend APIs, reusable frontend components, and database-driven systems.
+
+* **Production & DevOps**
+  Experience with Docker-based deployments, CI/CD automation, cloud infrastructure, server management, and production environments.
+
+* **Team & Project Leadership**
+  Experience coordinating development activities, project planning, technical presentations, and Git/GitHub workflows.
+
 <!--   
 ##  **Tech Stack**  
 
