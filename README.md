@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner (5)" src="https://github.com/user-attachments/assets/ed78018c-0ac3-4161-8120-c95df62b560e" />
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner (7)" src="https://github.com/user-attachments/assets/e6031870-d6a6-4317-8b43-469421a2d0db" />
 <!--<img width="1584" height="396" alt="WhatsApp Image 2026-09-21 at 00 40 11" src="https://github.com/user-attachments/assets/955cf65c-5080-4948-a98d-705a0f850070" />-->
 </p>
 
