@@ -1,5 +1,5 @@
 <p align="center">
-<img width="1584" height="396" alt="WhatsApp Image 2026-10-07 at 19 55 15" src="https://github.com/user-attachments/assets/5b448276-675e-4be4-a2f2-780ac9f40a47" />
+<img width="1584" height="396" alt="WhatsApp Image 2026-10-07 at 20 03 42" src="https://github.com/user-attachments/assets/4cc4d39d-41c8-46b9-a747-f7af401e0549" />
 <!--<img width="1584" height="396" alt="WhatsApp Image 2026-09-21 at 00 40 11" src="https://github.com/user-attachments/assets/955cf65c-5080-4948-a98d-705a0f850070" />-->
 </p>
 
