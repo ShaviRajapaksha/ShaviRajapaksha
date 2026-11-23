@@ -27,7 +27,7 @@
 Graduated Software Engineer with a strong foundation in software engineering, DevOps, and Artificial Intelligence/Machine Learning. Experienced in designing, developing, deploying, and maintaining scalable web, mobile, and data-driven applications. Hands-on experience in full-stack development, RESTful API design, cloud infrastructure, CI/CD automation, containerization, software testing, and implementing predictive AI/ML models. Skilled in React, Next.js, NestJS, ASP.NET Core, Python (PyTorch/TensorFlow, Scikit-learn), Docker, AWS EC2, PostgreSQL, MS SQL, and GitHub Actions, with proven experience working in Agile environments and production systems.
 </p>
 
-<img width="1600" height="1000" alt="WhatsApp Image 2026-11-18 at 22 36 06" src="https://github.com/user-attachments/assets/d4f8b87e-2c58-49fa-88d9-f55f8467e85d" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-11-23 at 08 32 24" src="https://github.com/user-attachments/assets/9cbf7578-9181-4c00-9018-be66be3189fc" />
 
 ##  Education
 
